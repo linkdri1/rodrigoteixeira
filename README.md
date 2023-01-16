@@ -13,7 +13,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original
   <img align="center" alt="Rodrigo-node.js" height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Rodrigo-node.js" height="30" width="40"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Rodrigo-pic" height="150" style="border-radius:50px;" src="https://www.linkedin.com/feed/update/urn:li:activity:7020578849952251904/">
+  
 </div>
 
   ##
